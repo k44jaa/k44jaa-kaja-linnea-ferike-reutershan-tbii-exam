@@ -1,6 +1,6 @@
 # Culture Champions - Kaja Reutershan's Tech Basic II Exam project
 
-In this repository you can find my Tech Basics II Exam Project Code. The Code represents a MVP that I have buildt, which offers cultural integration and support for people immigrating into another country:
+In this repository you can find my Tech Basics II Exam Project Code. The Code app.py represents a MVP that I have buildt, which offers cultural integration and support for people immigrating into another country:
 
 - When the app is being run, the first thing opening is a splash screen that gives the user the information of 'Culture Champions' being loaded.
 - After 4 seconds the first screen is being shown. There a language is to be selected out of a dropdown menu and once that is done a short welcoming message is being dispayed in the selected language. With a 'continue' button the user can proceed to the next window.
